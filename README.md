@@ -1,6 +1,6 @@
 <h1>Microsoft 365 Core Administration</h1>
 <p>
-Following the setup of a cloud-based tenant, this project focuses on user lifecycle management, basic email routing, and identity security baselines within the Microsoft ecosystem.
+I looked at On-premise Active Directory in a few of my other projects and wanted to dive into cloud-based management with Microsoft 365. This project focuses on user lifecycle management, basic email routing, and identity security baselines within the Microsoft ecosystem.
 
 </p>
 The objective was to simulate a real-world IT support scenario encompassing common Tier 1 requests like:
